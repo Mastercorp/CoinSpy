@@ -5,11 +5,11 @@ CoinSpy uses current information on https://coinmarketcap.com/ and calculates th
 Every 5 minutes an update is made and saved in a txt file for each coin.
 
 For example:
-Bitcoin:
-$4202.47 %-Value: 100.0 12/09/2017 19:40:28
-$4097.38 %-Value: 97.5 12/09/2017 20:44:24
-$4093.83 %-Value: 97.41 12/09/2017 21:01:22
-$4094.13 %-Value: 97.42 12/09/2017 21:06:26
+Bitcoin:  
+$4202.47 %-Value: 100.0 12/09/2017 19:40:28  
+$4097.38 %-Value: 97.5 12/09/2017 20:44:24  
+$4093.83 %-Value: 97.41 12/09/2017 21:01:22  
+$4094.13 %-Value: 97.42 12/09/2017 21:06:26  
 
 Currently 6 coins are used. ( Bitcoin, Litecoin, Bytecoin, ReddCoin, Vertcoin and Dogecoin ).
 You can add any coin you want. Just use the case sensitive name from https://coinmarketcap.com/ and add it in the main.py after or instead of the current coins.
