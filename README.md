@@ -2,7 +2,7 @@
 
 
 CoinSpy uses current information on https://coinmarketcap.com/ and calculates the changes of the value of different coins in %.
-Every 5 minutes an update is made.
+Every 5 minutes an update is made and saved in a txt file for each coin.
 
 For example:
 Bitcoin:
@@ -30,6 +30,14 @@ For example: insert the value at which you bought the coin. Now you can track at
 python main.py
 Every 5 minutes an update is made automatically and saved to the txt file.
 (if you have python 2 and python3 installed use py -2 main.py )
+
+## Donate
+Bitcoin: 1NE7tpCaHXMG3VP2oQrx1L53MEPnAp39xM
+Litecoin: LLCmNPWBt8TxnNuaTWfyDdajXM5rZPuzsT
+Bytecoin: 23PcpRoPL24U3jnhgH38Za7ZLAhrpXNQUA7NhW2nyJqJ54VCP7M6M1VhP76WAxed7J9XCuzbnjZqz1MQUc6MPJjTUDaZuiS
+Reddcoin: Rsjofwt2TNu6Gf6eQdzyUhJe2J6vLsKoBq
+Dogecoin: DM13fiivexaZf35HTQ7AKBFLxNTHhJXu1c
+Vertcoin: VbKfmr7B352WEPs3Qi7VeC4WviGS1jGQvd
 
 
 ## License
