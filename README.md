@@ -32,7 +32,7 @@ Every 5 minutes an update is made automatically and saved to the txt file.
 (if you have python 2 and python3 installed use py -2 main.py )
 
 ## Donate
-Bitcoin: 1NE7tpCaHXMG3VP2oQrx1L53MEPnAp39xM  
+Bitcoin: 17C7sAiGw7a7g7wZx3eVbe5Vuqs35EJhSL    
 Litecoin: LLCmNPWBt8TxnNuaTWfyDdajXM5rZPuzsT  
 Verge : DN5QsxVaFLykVykGNFqRdGFvi5zg2zz3Rq   
 Reddcoin: Rsjofwt2TNu6Gf6eQdzyUhJe2J6vLsKoBq  
