@@ -31,13 +31,6 @@ python main.py
 Every 5 minutes an update is made automatically and saved to the txt file.
 (if you have python 2 and python3 installed use py -2 main.py )
 
-## Donate
-Bitcoin: 17C7sAiGw7a7g7wZx3eVbe5Vuqs35EJhSL    
-Litecoin: LLCmNPWBt8TxnNuaTWfyDdajXM5rZPuzsT  
-Verge : DN5QsxVaFLykVykGNFqRdGFvi5zg2zz3Rq   
-Reddcoin: Rsjofwt2TNu6Gf6eQdzyUhJe2J6vLsKoBq  
-Dogecoin: DM13fiivexaZf35HTQ7AKBFLxNTHhJXu1c  
-Vertcoin: VbKfmr7B352WEPs3Qi7VeC4WviGS1jGQvd  
 
 
 ## License
