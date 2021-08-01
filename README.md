@@ -11,27 +11,26 @@ $4097.38 %-Value: 97.5 12/09/2017 20:44:24
 $4093.83 %-Value: 97.41 12/09/2017 21:01:22  
 $4094.13 %-Value: 97.42 12/09/2017 21:06:26  
 
-Currently 6 coins are used. ( Bitcoin, Litecoin, Bytecoin, ReddCoin, Vertcoin and Dogecoin ).
-You can add any coin you want. Just use the case sensitive name from https://coinmarketcap.com/ and add it in the main.py after or instead of the current coins.
+
+Currently 4 coins are used. ( Bitcoin, Litecoin, Ethereum, Dogecoin).
+You can add any coin you want yourself by adapting the main.py file. (just stick to the same formatting as for the other coins. BTCBitcoin for example)
 A coinspecific txt file is created automatically.
 
 Setting your own starting limit is easy too. Just delete everything in the current coinspy.txt file and add your own starting value:
 $4202.47 %-Value: 100.0
-After starting the programm, all values are calculated based on the set value.
+
+After starting the programm, all change values are calculated on the value in the first line.
 
 For example: insert the value at which you bought the coin. Now you can track at what percentage the coin changed based on his starting value.
 
 ## What you need
 
- python 2.7 with some dependencies 
- (pandas, enum34, numpy, lxml, html5lib ,beautifulsoup4)
+ python 3
+ (pandas, lxm)
 
 ## Usage
 python main.py
 Every 5 minutes an update is made automatically and saved to the txt file.
-(if you have python 2 and python3 installed use py -2 main.py )
-
-
 
 ## License
 
